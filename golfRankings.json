@@ -1,0 +1,54 @@
+{
+	"golfRankings": {
+		"1": {
+			"player": "Brooks Koepka",
+			"country": "USA",
+			"averagePoints": 12.767
+		},
+		"2": {
+			"player": "Dustin Johnson",
+			"country": "USA",
+			"averagePoints": 9.393
+		},
+		"3": {
+			"player": "Rory McIlroy",
+			"country": "NIR",
+			"averagePoints": 8.697
+		},
+		"4": {
+			"player": "Justin Rose",
+			"country": "ENG",
+			"averagePoints": 8.144
+		},
+		"5": {
+			"player": "Jon Rahm",
+			"country": "ESP",
+			"averagePoints": 6.865
+		},
+		"6": {
+			"player": "Tiger Woods",
+			"country": "USA",
+			"averagePoints": 6.725
+		},
+		"7": {
+			"player": "Francesco Molinari",
+			"country": "ITA",
+			"averagePoints": 6.350
+		},
+		"8": {
+			"player": "Bryson DeChambeau",
+			"country": "USA",
+			"averagePoints": 6.231
+		},
+		"9": {
+			"player": "Patrick Cantlay",
+			"country": "USA",
+			"averagePoints": 6.104
+		},
+		"10": {
+			"player": "Justin Thomas",
+			"country": "USA",
+			"averagePoints": 6.063
+		}
+	}
+}
